@@ -28,7 +28,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          ref: master
+          ref: bingxuelingdong/lede
 
       - name: Space cleanup
         env:
